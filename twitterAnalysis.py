@@ -11,7 +11,7 @@ import matplotlib.pyplot as pyplot
 import numpy as np
 from vaderSentiment.vaderSentiment import sentiment as vaderSentiment
 
-tweets_data_path = '/Users/lanqiu-pc/Downloads/toutput.txt'
+tweets_data_path = path to the file
 
 tweets_data = []
 tweets_file = open(tweets_data_path,"r")
